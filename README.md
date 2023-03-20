@@ -3,11 +3,6 @@
 
 # Analysis
 - [需求分析训练营(徐锋).md](http://doc.pigfeet.cn/gen_md?src=https%3A%2F%2Fcode.aliyun.com%2Fzyxstar2013%2Fmd_note%2Fraw%2Fmaster%2Fdocs%2FAnalysis%2F%25E9%259C%2580%25E6%25B1%2582%25E5%2588%2586%25E6%259E%2590%25E8%25AE%25AD%25E7%25BB%2583%25E8%2590%25A5%2528%25E5%25BE%2590%25E9%2594%258B%2529.md) <span>2013-12-08</span>
-- [有效用例模式(SteveAdolph).md](http://doc.pigfeet.cn/gen_md?src=https%3A%2F%2Fcode.aliyun.com%2Fzyxstar2013%2Fmd_note%2Fraw%2Fmaster%2Fdocs%2FAnalysis%2F%25E6%259C%2589%25E6%2595%2588%25E7%2594%25A8%25E4%25BE%258B%25E6%25A8%25A1%25E5%25BC%258F%2528SteveAdolph%2529.md) <span>2014-09-06</span>
-- [软件方法(潘家宇).md](http://doc.pigfeet.cn/gen_md?src=https%3A%2F%2Fcode.aliyun.com%2Fzyxstar2013%2Fmd_note%2Fraw%2Fmaster%2Fdocs%2FAnalysis%2F%25E8%25BD%25AF%25E4%25BB%25B6%25E6%2596%25B9%25E6%25B3%2595%2528%25E6%25BD%2598%25E5%25AE%25B6%25E5%25AE%2587%2529.md) <span>2016-08-17</span>
-- [用例驱动的UML对象建模(ICONIX).md](http://doc.pigfeet.cn/gen_md?src=https%3A%2F%2Fcode.aliyun.com%2Fzyxstar2013%2Fmd_note%2Fraw%2Fmaster%2Fdocs%2FAnalysis%2F%25E7%2594%25A8%25E4%25BE%258B%25E9%25A9%25B1%25E5%258A%25A8%25E7%259A%2584UML%25E5%25AF%25B9%25E8%25B1%25A1%25E5%25BB%25BA%25E6%25A8%25A1%2528ICONIX%2529.md) <span>2009-01-30</span>
-- [AnalysisPatterns(MartinFowler).md](http://doc.pigfeet.cn/gen_md?src=https%3A%2F%2Fcode.aliyun.com%2Fzyxstar2013%2Fmd_note%2Fraw%2Fmaster%2Fdocs%2FAnalysis%2FAnalysisPatterns%2528MartinFowler%2529.md) <span>2016-08-07</span>
-- [系统分析UML实务(MDA).md](http://doc.pigfeet.cn/gen_md?src=https%3A%2F%2Fcode.aliyun.com%2Fzyxstar2013%2Fmd_note%2Fraw%2Fmaster%2Fdocs%2FAnalysis%2F%25E7%25B3%25BB%25E7%25BB%259F%25E5%2588%2586%25E6%259E%2590UML%25E5%25AE%259E%25E5%258A%25A1%2528MDA%2529.md) <span>2009-06-03</span>
 
 # Design
 - [领域驱动设计(Eric.Evans).md](http://doc.pigfeet.cn/gen_md?src=https%3A%2F%2Fcode.aliyun.com%2Fzyxstar2013%2Fmd_note%2Fraw%2Fmaster%2Fdocs%2FDesign%2F%25E9%25A2%2586%25E5%259F%259F%25E9%25A9%25B1%25E5%258A%25A8%25E8%25AE%25BE%25E8%25AE%25A1%2528Eric.Evans%2529.md) <span>2014-05-30</span>
@@ -55,18 +50,6 @@
 - [Underscore_throttle.md](http://doc.pigfeet.cn/gen_md?src=https%3A%2F%2Fcode.aliyun.com%2Fzyxstar2013%2Fmd_note%2Fraw%2Fmaster%2Fdocs%2FLanguage%2FJavaScript%2FUnderscore_throttle.md) <span>2014-03-20</span>
 - [中国象棋.md](http://doc.pigfeet.cn/gen_md?src=https%3A%2F%2Fcode.aliyun.com%2Fzyxstar2013%2Fmd_note%2Fraw%2Fmaster%2Fdocs%2FLanguage%2FJavaScript%2F%25E4%25B8%25AD%25E5%259B%25BD%25E8%25B1%25A1%25E6%25A3%258B.md) <span>2011-07-01</span>
 
-# Skill
-- [Linux基础(RHEL).md](http://doc.pigfeet.cn/gen_md?src=https%3A%2F%2Fcode.aliyun.com%2Fzyxstar2013%2Fmd_note%2Fraw%2Fmaster%2Fdocs%2FSkill%2FLinux%25E5%259F%25BA%25E7%25A1%2580%2528RHEL%2529.md) <span>2014-09-27</span>
-- [Git版本控制之道.md](http://doc.pigfeet.cn/gen_md?src=https%3A%2F%2Fcode.aliyun.com%2Fzyxstar2013%2Fmd_note%2Fraw%2Fmaster%2Fdocs%2FSkill%2FGit%25E7%2589%2588%25E6%259C%25AC%25E6%258E%25A7%25E5%2588%25B6%25E4%25B9%258B%25E9%2581%2593.md) <span>2014-10-29</span>
-- [UnitTesting.md](http://doc.pigfeet.cn/gen_md?src=https%3A%2F%2Fcode.aliyun.com%2Fzyxstar2013%2Fmd_note%2Fraw%2Fmaster%2Fdocs%2FSkill%2FUnitTesting.md) <span>2010-07-26</span>
-- [DataBase.md](http://doc.pigfeet.cn/gen_md?src=https%3A%2F%2Fcode.aliyun.com%2Fzyxstar2013%2Fmd_note%2Fraw%2Fmaster%2Fdocs%2FSkill%2FDataBase.md) <span>2009-10-25</span>
-- [Seaz.md](http://doc.pigfeet.cn/gen_md?src=https%3A%2F%2Fcode.aliyun.com%2Fzyxstar2013%2Fmd_note%2Fraw%2Fmaster%2Fdocs%2FSkill%2FSeaz.md) <span></span>
-- [项目进度估算.md](http://doc.pigfeet.cn/gen_md?src=https%3A%2F%2Fcode.aliyun.com%2Fzyxstar2013%2Fmd_note%2Fraw%2Fmaster%2Fdocs%2FSkill%2F%25E9%25A1%25B9%25E7%259B%25AE%25E8%25BF%259B%25E5%25BA%25A6%25E4%25BC%25B0%25E7%25AE%2597.md) <span>2016-08-03</span>
-- [LinuxCommands.md](http://doc.pigfeet.cn/gen_md?src=https%3A%2F%2Fcode.aliyun.com%2Fzyxstar2013%2Fmd_note%2Fraw%2Fmaster%2Fdocs%2FSkill%2FLinuxCommands.md) <span></span>
-- [Docker.md](http://doc.pigfeet.cn/gen_md?src=https%3A%2F%2Fcode.aliyun.com%2Fzyxstar2013%2Fmd_note%2Fraw%2Fmaster%2Fdocs%2FSkill%2FDocker.md) <span></span>
-- [VMwareNetSetting.md](http://doc.pigfeet.cn/gen_md?src=https%3A%2F%2Fcode.aliyun.com%2Fzyxstar2013%2Fmd_note%2Fraw%2Fmaster%2Fdocs%2FSkill%2FVMwareNetSetting.md) <span></span>
-- [RenHealthInfrastructure.md](http://doc.pigfeet.cn/gen_md?src=https%3A%2F%2Fcode.aliyun.com%2Fzyxstar2013%2Fmd_note%2Fraw%2Fmaster%2Fdocs%2FSkill%2FRenHealthInfrastructure.md) <span>2014-09-20</span>
-- [网络基础.md](http://doc.pigfeet.cn/gen_md?src=https%3A%2F%2Fcode.aliyun.com%2Fzyxstar2013%2Fmd_note%2Fraw%2Fmaster%2Fdocs%2FSkill%2F%25E7%25BD%2591%25E7%25BB%259C%25E5%259F%25BA%25E7%25A1%2580.md) <span></span>
 
 # Framework
 - [Backbone_intro.md](http://doc.pigfeet.cn/gen_md?src=https%3A%2F%2Fcode.aliyun.com%2Fzyxstar2013%2Fmd_note%2Fraw%2Fmaster%2Fdocs%2FFramework%2FBackbone_intro.md) <span>2013-07-01</span>
